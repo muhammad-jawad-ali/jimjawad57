@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Jawad 👋
 
-<!--
-**jimjawad57/jimjawad57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a love for open source!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- C++
+- SFML
+- JavaScript
+- HTML
+- CSS
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Octocat's GitHub stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact)
+
+## 🚀 Projects
+- [Project 1](https://github.com/talhashafi-04/Plants-Vs-Zombies_GOTY)
+
+## 🌐 Connect with me
+[![Instagram](https://www.instagram.com/jim_jawad/)
+[![LinkedIn](https://www.linkedin.com/in/muhammad-jawad-ali/)
