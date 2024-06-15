@@ -14,9 +14,9 @@ I'm a passionate developer with a love for open source!
 
 
 ## 🚀 Projects
-<a href="https://github.com/talhashafi-04/Plants-Vs-Zombies_GOTY">
-  <img src="https://github.com/your-username/your-repository/blob/main/images/plants-vs-zombies.jpg" alt="Plants vs Zombies" width="300"/>
-</a>
+
+[![Plants vs Zombies](https://github.com/your-username/your-repository/blob/main/images/plants-vs-zombies.jpg)](https://github.com/talhashafi-04/Plants-Vs-Zombies_GOTY)
+
 
 ## 🌐 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20me-red?logo=instagram&logoColor=white)](https://www.instagram.com/jim_jawad/)
