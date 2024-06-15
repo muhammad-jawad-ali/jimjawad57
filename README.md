@@ -4,12 +4,13 @@ I'm a passionate developer with a love for open source!
 
 ## 🔧 Technologies & Tools
 
-[![C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fc-plus-plus&psig=AOvVaw2YTgM4V646afAwlF8R2ksh&ust=1718565883699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLimgfmq3oYDFQAAAAAdAAAAABAE)](https://isocpp.org/)
-[![SFML](https://img.shields.io/badge/SFML-007ACC?style=for-the-badge&logo=SFML&logoColor=white)](https://www.sfml-dev.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SFML](https://img.shields.io/badge/SFML-007ACC?style=for-the-badge&logo=sfml&logoColor=white)](https://www.sfml-dev.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 
 
 
