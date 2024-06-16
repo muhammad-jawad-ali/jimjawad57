@@ -22,3 +22,5 @@ I'm a passionate developer with a love for open source!
 ## 🌐 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20me-red?logo=instagram&logoColor=white)](https://www.instagram.com/jim_jawad/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-jawad-ali/)
+[![Gmail](https://img.shields.io/badge/Gmail-i233024@isb.nu.edu.pk-red)](mailto:i233024@isb.nu.edu.pk)
+
