@@ -17,7 +17,7 @@ I'm a passionate developer with a love for open source!
 ### My GitHub History 📈
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammad-jawad-ali&show_icons=true&theme=tokyonight" style="height: 180px; width: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jawad-ali&show_icons=true&theme=tokyonight&layout=compact" alt="muhammad-jawad-ali's Top Languages" style="height: 180px; width: auto;">
+<img src="https://github-readme-stats.vercel.app/api?username=muhammad-jawad-ali&show_icons=true&theme=tokyonight" style="height: 180px; width: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jawad-ali&show_icons=true&theme=tokyonight&layout=compact" alt="muhammad-jawad-ali's Top Languages" style="height: 150px; width: auto;">
 
 
 
