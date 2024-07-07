@@ -14,16 +14,17 @@ I'm a passionate developer with a love for open source!
 
 
 
-## 🚀 Projects
-
-[![Plants vs Zombies](https://github.com/jimjawad57/jimjawad57/blob/main/pvz%20ss.png)](https://github.com/talhashafi-04/Plants-Vs-Zombies_GOTY)
-
-
-
 ### My GitHub History 📈
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=muhammad-jawad-ali&show_icons=true&theme=tokyonight" style="height: 180px; width: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jawad-ali&show_icons=true&theme=tokyonight&layout=compact" alt="muhammad-jawad-ali's Top Languages" style="height: 180px; width: auto;">
+
+
+
+## 🚀 Projects
+
+[![Plants vs Zombies](https://github.com/jimjawad57/jimjawad57/blob/main/pvz%20ss.png)](https://github.com/talhashafi-04/Plants-Vs-Zombies_GOTY)
+
 
 
 ## 🌐 Connect with me
