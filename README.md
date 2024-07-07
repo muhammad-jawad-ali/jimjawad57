@@ -1,4 +1,4 @@
-# Hi there, I'm Jawad 👋
+# Hi there, I'm Muhammad Jawad Ali👋
 
 I'm a passionate developer with a love for open source!
 
