@@ -2,6 +2,10 @@
 
 I'm a passionate developer with a love for open source!
 
+<a  align="center">
+![](https://komarev.com/ghpvc/?username=m-jawad-ali&color=blueviolet&label=Profile+Views)
+</a>
+
 ## 🔧 Technologies & Tools
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
